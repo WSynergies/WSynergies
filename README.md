@@ -19,7 +19,6 @@
 📫 Reach out to us:
 - 📧 Email: [dev@workmansynergies.com](mailto:dev@workmansynergies.com)
 - 🌐 Website: [www.workmansynergies.com](http://www.workmansynergies.com)
-- 📞 Phone: (Your Phone Number)
 
 ---
 
